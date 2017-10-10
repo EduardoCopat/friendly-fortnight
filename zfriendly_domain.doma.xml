@@ -8,7 +8,7 @@
     <DATATYPE>INT4</DATATYPE>
     <LENG>000010</LENG>
     <OUTPUTLEN>000011</OUTPUTLEN>
-    <DDTEXT>domain 2</DDTEXT>
+    <DDTEXT>domain</DDTEXT>
    </DD01V>
   </asx:values>
  </asx:abap>

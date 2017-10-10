@@ -1,14 +1,25 @@
-class ZBLABLA definition
-  public
-  final
-  create public .
+CLASS zblabla DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
 
-public section.
-protected section.
-private section.
+  PUBLIC SECTION.
+    METHODS:
+      c,
+      a.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
 ENDCLASS.
 
 
 
 CLASS ZBLABLA IMPLEMENTATION.
+
+
+  METHOD a.
+  ENDMETHOD.
+
+
+  METHOD c.
+  ENDMETHOD.
 ENDCLASS.
