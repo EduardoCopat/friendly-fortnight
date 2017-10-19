@@ -72,6 +72,12 @@
      <LANGU>E</LANGU>
      <DESCRIPT>Queries</DESCRIPT>
     </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZIF_EC_ZATEST_C</CLSNAME>
+     <CMPNAME>SC_QUERY_ATTRIBUTE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Query Attributes</DESCRIPT>
+    </SEOCOMPOTX>
    </DESCRIPTIONS>
   </asx:values>
  </asx:abap>
